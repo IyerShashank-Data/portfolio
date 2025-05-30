@@ -4,11 +4,6 @@ Welcome to my data analytics portfolio! Here you'll find projects that showcase 
 
 ## 📊 Projects
 
-### [Customer Churn Analysis](#)
-- Built a predictive model using Python to identify churn risk
-- Analyzed customer behavior and key drivers of churn
-- Visualized findings using matplotlib and seaborn
-
 ### [Sales Dashboard](#)
 - Created an interactive Power BI dashboard to track sales KPIs
 - Used DAX for calculated measures and slicers for interactivity
