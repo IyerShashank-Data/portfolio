@@ -23,7 +23,7 @@ Welcome to my data analytics portfolio! Here you'll find projects that showcase 
 - Developed a Power BI tool — “Biotherm Atlas” — for sales targeting
 - Created 6+ marketing assets including brochures and videos
 
-## 📄 [View My Resume](Resume.pdf)
+## 📄 [View My Resume](Updated_Resume.pdf)
 
 ## 🔗 Connect With Me
 - [LinkedIn](https://linkedin.com/in/iyershashank)
